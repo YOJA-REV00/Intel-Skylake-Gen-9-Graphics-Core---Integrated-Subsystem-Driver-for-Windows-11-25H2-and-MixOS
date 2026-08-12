@@ -22,7 +22,7 @@ ClassGUID={4D36E968-E325-11CE-BFC1-08002BE10318}
 Class=Display
 CatalogFile=igdlh_custom.cat
 
-DriverVer=08/11/2026,31.0.101.4509
+DriverVer = 08/11/2026, 31.0.101.4509
 PnpLockdown=0
 
 [PackageInfo]
